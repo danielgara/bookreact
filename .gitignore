@@ -5,4 +5,4 @@
 /chapter04/try-react/node_modules/*
 /chapter05/class-components/node_modules/*
 /chapter05/hooks-components/node_modules/*
-/chapter05/ejected-app/node_modules/*
+/chapter06/ejected-app/node_modules/*
