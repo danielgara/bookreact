@@ -9,3 +9,5 @@
 /chapter07/redux/node_modules/*
 /chapter07/try-react-router/node_modules/*
 /chapter09/graphql-schema/node_modules/*
+/chapter10/node-server/node_modules/*
+/chapter10/gql-server/node_modules/*
