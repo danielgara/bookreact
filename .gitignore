@@ -8,3 +8,4 @@
 /chapter06/ejected-app/node_modules/*
 /chapter07/redux/node_modules/*
 /chapter07/try-react-router/node_modules/*
+/chapter09/graphql-schema/node_modules/*
