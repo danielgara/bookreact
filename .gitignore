@@ -13,4 +13,5 @@
 /chapter10/gql-server/node_modules/*
 /chapter12/super-forum-client/node_modules/*
 /chapter15-daniel/todo-server/node_modules/*
+/chapter15-daniel/todo-server-no-gql/node_modules/*
 /chapter15-daniel/todo-client/node_modules/*
