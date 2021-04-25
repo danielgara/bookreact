@@ -6,6 +6,7 @@ export default function Home(props: any) {
     query getAllTodos {
       getTodos {
         id
+        message
       }
     }
   `;
@@ -21,8 +22,8 @@ export default function Home(props: any) {
 
   return (
     <ul>
-      {data.getTodos.map(({ id }:any) => (
-        <li key={id}>{id}</li>
+      {data.getTodos.map(({ id, message }:any) => (
+        <li key={id}>{message}</li>
       ))}
     </ul>
   );
